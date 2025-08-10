@@ -9,4 +9,4 @@ def count(end, start=0): #Default arguments should be placed at last and no defa
         time.sleep(1)
     print("Done!")
 
-count(20, 9) #suppose say (a,b) then countdown starts from b and ends at a 
+count(20, 9) #(a,b) the countdown starts from b and ends at a 
